@@ -10,7 +10,7 @@
 
 ## Hi ! I'm INSEO 🧚🏻‍♀️
 <!--  <a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a>  -->
- <a href="mailto:y.1nseooo@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:y.1nseooo@gmail.com"><img src="https://img.shields.io/badge/Mail-9747FF?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 
 
