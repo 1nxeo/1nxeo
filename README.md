@@ -45,7 +45,7 @@
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nxeo&show_icons=true&theme=transparent)](https://github.com/1nxeo/github-readme-stats)
-  
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nxeo&layout=compact&hide=html"> -->
 
   
 <!-- - 🔭 I’m currently working on ...
