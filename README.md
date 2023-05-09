@@ -1,15 +1,26 @@
 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=1nxeo&fontAlign=70&fontAlignY=40&animation=twinkling)
-  
-  <div style="display:flex; justify-contents:flex-end;">
-  
+     <div align="end">
+     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1nxeo&count_bg=%236B00FF&title_bg=%23838383&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
+     
+</div>
 
+## Hi ! I'm INSEO 🧚🏻‍♀️
+<!--  <a href="https://cheri.tistory.com/"><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a>  -->
+ <a href="mailto:y.1nseooo@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
+
+
+
+
+  
    -  🔭 I’m currently working on
 [EmoTrak](https://github.com/EmoTrak/EmoTrak-FrontEnd.git "이모트랙")
   
-  
+
+
 ### Languages & Tools
   </div>
 <div style="display:flex; flex-direction:row; justify-contents:center;">
