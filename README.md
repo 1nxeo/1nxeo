@@ -1,4 +1,4 @@
-<div style="display:flex; justify-contents:center;">
+
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=1nxeo&fontAlign=70&fontAlignY=40&animation=twinkling)
   
@@ -6,8 +6,12 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1nxeo&count_bg=%236B00FF&title_bg=%23838383&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
 
+   -  🔭 I’m currently working on
+[EmoTrak](https://github.com/EmoTrak/EmoTrak-FrontEnd.git "이모트랙")
+  
+  
+### Languages & Tools
   </div>
-<h3>Languages & Tools</h3>
 <div style="display:flex; flex-direction:row; justify-contents:center;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
@@ -24,12 +28,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) -->
 
-<div style="display:flex; justify-contents:center;">
-<h3>Stats</h3>
-  
+
+
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nxeo&show_icons=true&theme=transparent)](https://github.com/1nxeo/github-readme-stats)
   
-</div>
+
   
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -41,4 +45,4 @@
 - ⚡ Fun fact: ...
  -->
  
- </div>
+
