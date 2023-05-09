@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=1nxeo&fontAlign=70&fontAlignY=40&animation=twinkling)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1nxeo&count_bg=%236B00FF&title_bg=%23838383&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div style="display:flex;">
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div>
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
-  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /></div>
+<div style="display:flex; flex-direction:row; justify-contents:center;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
 </div>
 <br/>
 <div style="display:flex;">
