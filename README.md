@@ -18,7 +18,7 @@
 
   
    -  🔭 I’m currently working on
-[EmoTrak](https://github.com/EmoTrak/EmoTrak-FrontEnd.git "이모트랙")
+[EmoTrak](https://github.com/1nxeo/EmoTrak-FrontEnd.git  "이모트랙")
   
 
 
