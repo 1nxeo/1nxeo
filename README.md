@@ -25,7 +25,7 @@
 🔭 I’m currently working on
 [EmoTrak](https://github.com/1nxeo/EmoTrak-FrontEnd.git  "이모트랙")
      
-🌱 I’m currently learning **TypeScript, React, Node.js**
+🌱 I’m currently learning **TypeScript, React** and Node.js
   
 
 
