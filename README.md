@@ -45,7 +45,10 @@
  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
 </div>
 
-### Currently Learning
+<div align="center" style="display:flex;">
+<h4>Currently Learning...</h4>
+</div>
+
 <div align="center" style="display:flex;">
   <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"></img> &nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"></img> &nbsp 
