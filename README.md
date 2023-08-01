@@ -44,9 +44,12 @@
  <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img> &nbsp 
  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
 </div>
+
+### Currently Learning
 <div align="center" style="display:flex;">
-  <img src="https://img.shields.io/badge/kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"></img> &nbsp 
-  <img src="https://img.shields.io/badge/android-3ddc84?style=flat-square&logo=android&logoColor=white"></img> &nbsp 
+  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"></img> &nbsp 
+  <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"></img> &nbsp 
+  <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white"></img> &nbsp 
 </div>
 <!-- ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
