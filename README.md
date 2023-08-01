@@ -46,7 +46,7 @@
 </div>
 
 <div align="center" style="display:flex;">
-<h4>Currently Learning...</h4>
+<h4>Currently Studying...</h4>
 </div>
 
 <div align="center" style="display:flex;">
