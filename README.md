@@ -26,7 +26,7 @@
 
 [EmoTrak](https://github.com/1nxeo/EmoTrak-FrontEnd.git  "이모트랙")
 
-[GiftWave](https://github.com/GiftWaveProjectTeam/GiftWave-FE)
+<!-- [GiftWave](https://github.com/GiftWaveProjectTeam/GiftWave-FE) -->
      
 <!-- 🌱 I’m currently learning **TypeScript, React** and a little bit of Node.js -->
   
