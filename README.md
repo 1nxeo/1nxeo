@@ -22,8 +22,11 @@
 
 
   
-🔭 I’m currently working on
+🔭 **Projects**
+
 [EmoTrak](https://github.com/1nxeo/EmoTrak-FrontEnd.git  "이모트랙")
+
+[GiftWave](https://github.com/GiftWaveProjectTeam/GiftWave-FE)
      
 <!-- 🌱 I’m currently learning **TypeScript, React** and a little bit of Node.js -->
   
@@ -39,6 +42,7 @@
 </div>
 <br/>
 <div align="center" style="display:flex;">
+  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"></img> &nbsp 
   <img src="https://img.shields.io/badge/react--query-ff4154?style=flat-square&logo=react-query&logoColor=white"></img> &nbsp 
   <img src="https://img.shields.io/badge/HTML5-e74c3c?style=flat-square&logo=HTML5&logoColor=white"></img> &nbsp 
  <img src="https://img.shields.io/badge/CSS3-0A84FF?style=flat-square&logo=CSS3&logoColor=white"></img> &nbsp 
@@ -50,7 +54,6 @@
 </div>
 
 <div align="center" style="display:flex;">
-  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"></img> &nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white"></img> &nbsp 
   <img src="https://img.shields.io/badge/Android-3ddc84?style=flat-square&logo=android&logoColor=white"></img> &nbsp 
 </div>
